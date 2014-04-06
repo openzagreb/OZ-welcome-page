@@ -1,7 +1,4 @@
-http://codeforvirginiabeach.org
-===================
-
-Landing page for Code for Virginia Beach
+Welcome page for Open Zagreb
 
 Note that branch `gh-pages` is what shows on production codeforvirginiabeach.org. Master does nothing.
 
