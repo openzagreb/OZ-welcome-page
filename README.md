@@ -1,12 +1,12 @@
 #Welcome page for Open Zagreb
 
-Note that branch `gh-pages` is what shows on development openzagreb.github.io/oz-welcome-page. Master does nothing.
+Note that branch `gh-pages` is what shows on development openzagreb.github.io/oz-welcome-page.
 
 ##How to Code for this Repo
 Option A: Fork, Edit, then Pull Request when ready.
-Option B: If in the Open Zagreb Brigade and you have write access to repo: Develop/test in your own branch, preferablly a feature-named-branch, and once it's ready for production, merge into gh-pages.
+Option B: If in the Open Zagreb Brigade and you have write access to repo: Develop/test in your own branch, preferablly a feature-named-branch, and once it's ready for production, merge into master.
 
-Also, it's nice if you merge/commit to gh-pages, that you [let the team know on our message board](tbd). 
+Also, it's nice if you merge/commit to master, that you [let the team know on our updates board](http://codeforcroatia.org/projects/pocetna_stranica_open_zagreb). 
 
 ##License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
