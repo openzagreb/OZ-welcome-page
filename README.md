@@ -8,11 +8,11 @@ Option B: If in the Open Zagreb Brigade and you have write access to repo: Devel
 
 Also, it's nice if you merge/commit to gh-pages, that you [let the team know on our message board](tbd). 
 
-#License
+##License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-#Attribution and Thanks
+##Attribution and Thanks
 This repo and the site is based on codeforhamptonroads.org and uses Twitter Bootstrap and started from their [Carousel jumbotron](http://twitter.github.com/bootstrap/examples/carousel.html) template. They are awesome.
 
-#Issues, Questions, Wana Help?
+##Issues, Questions, Wana Help?
 We take Pull Requests! See our landing page [Open Zagreb](http://codeforcroatia.open.hr/openzagreb) for getting involved, and [Code for Croatia](http://codeforcroatia.open.hr) if outside City of Zagreb. Use github's issues if you see a problem or have a feature request. You can contact the maintainer @schlos.
