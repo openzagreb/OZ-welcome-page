@@ -1,6 +1,6 @@
 #Welcome page for Open Zagreb
 
-Note that branch `gh-pages` is what shows on production codeforvirginiabeach.org. Master does nothing.
+Note that branch `gh-pages` is what shows on development openzagreb.github.io/oz-welcome-page. Master does nothing.
 
 ##How to Code for this Repo
 Option A: Fork, Edit, then Pull Request when ready.
